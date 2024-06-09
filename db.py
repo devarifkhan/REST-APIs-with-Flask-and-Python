@@ -1,2 +1,2 @@
-stores={}
-items={}
+stores = {}
+items = {}
