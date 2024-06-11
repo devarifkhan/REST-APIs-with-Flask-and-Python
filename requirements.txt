@@ -1,4 +1,4 @@
-Flask==2.0.2
+Flask==2.2.5
 flask-smorest==0.32.0
 python-dotenv==0.20.0
 SQLAlchemy==1.4.22
